@@ -5,6 +5,8 @@ A comprehensive, interactive learning platform for aspiring Web3 developers. Thi
 ## 📁 Project Structure
 
 ```
+web3-blockchain-learning/
+├── index.html                    # HTML entry point
 ├── src/                          # React application source
 │   ├── App.tsx                   # Main app entry point
 │   ├── main.tsx                  # React DOM root
